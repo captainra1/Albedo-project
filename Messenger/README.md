@@ -1,3 +1,3 @@
 # Messenger
 
-Contains all datasets for the evaluation tests for the Messenger project
+Contains all dataset for the Messenger project
